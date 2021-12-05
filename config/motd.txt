@@ -13,6 +13,7 @@
 
 <p>GitHub: https://github.com/DesertRose2/desertrose</p>
 <p>Discord: https://discord.gg/NGpP36m</p>
+<p>Development Discord:  https://discord.gg/Dz5eXvUQTP </p>
 
 <p>Visit our forums for appeals, staff applications, and to apply for role whitelists!</p>
 <p>Forum: http://desertrosefallout13.boards.net/</p>
@@ -23,19 +24,15 @@
 
 <p>Patreon Supporters:</p>
 <pre>
-covertOddity
+Proxxymine
 WeebleTeebles
-Debonaircorsiar
 BubzBoop
 lovilove
 Gjorn
 Dr.Dreidel
 Cybersex
 Name00
-BurningCold
 Mexrex
-MintCookie
-Octus
 Vincieyork
 JimmyTombstone
 </pre>
